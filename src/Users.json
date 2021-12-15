@@ -1,0 +1,40 @@
+{
+    "Users":[
+        {
+            "email":"jayvsajay@gmail.com",
+            "password":"12345678",
+            "username":"Ajay",
+            "city":"Bengaluru",
+            "state":"Karnataka"
+        },
+        {
+            "email":"ajayvs@gmail.com",
+            "password":"0987654321",
+            "username":"Vijay",
+            "city":"Chinthamani",
+            "state":"Karnataka"
+        },
+        {
+            "email":"akshaym@gmail.com",
+            "password":"12345678",
+            "username":"Akshay",
+            "city":"Gulbarga",
+            "state":"Karnataka"
+        },
+        {
+            "email":"Bhoomika@gmail.com",
+            "password":"8310825074",
+            "username":"Bhoomika",
+            "city":"Mysore",
+            "state":"Karnataka"
+        },
+        {
+            "email":"Karantn@gmail.com",
+            "password":"12345678",
+            "username":"Karan",
+            "city":"Mumbai",
+            "state":"Maharashtra"
+        }
+        
+    ]
+}
